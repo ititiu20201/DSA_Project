@@ -3,8 +3,8 @@ A project for Data Structures &amp; Algorithms course  Resources
 Welcome!
 You just visited a repository for our project for Data Structures & Algorithms course @@!
 * About our team:
-1. Trần Đình An - ITDSIU20113
-2. Đinh Quang Hiển - ITITIU20201
+1. Đinh Quang Hiển - ITITIU20201
+2. Nguyễn Hữu Minh Nhật - ITITIU20062
 3. Nguyễn Vạn Huy - ITITIU20215
 4. Lê Thế Duyệt - ITITIU19112
 * About this game:
