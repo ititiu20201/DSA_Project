@@ -1,14 +1,18 @@
 # DSA_Project
 A project for Data Structures &amp; Algorithms course  Resources
+
 Welcome!
 
 You just visited a repository for our project for Data Structures & Algorithms course!
 
 About our team:
+
 Đinh Quang Hiển - ITITIU20201
+
 Nguyễn Hữu Minh Nhật - ITITIU20062
 
 Nguyễn Vạn Huy - ITITIU20215
+
 Lê Thế Duyệt - ITITIU19112
 
 About this game:
