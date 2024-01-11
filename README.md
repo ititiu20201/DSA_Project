@@ -5,7 +5,7 @@ You just visited a repository for our project for Data Structures & Algorithms c
 * About our team:
 1. Đinh Quang Hiển - ITITIU20201
 2. Nguyễn Hữu Minh Nhật - ITITIU20062
-3. Nguyễn Nhật Minh - ITITIU20112
+3. Nguyễn Lê Minh - ITITIU20112
 4. Trương Hiếu Nghĩa - ITITIU19164
 * About this game:
 * Game's name: MineSweeper.
